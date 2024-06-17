@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me Games or discord
 - 😄 Pronouns: Ga/mes
-- ⚡ Fun fact: you already know
+- ⚡ Fun fact: you can guess
 
 <!---
 F4B100/F4B100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
